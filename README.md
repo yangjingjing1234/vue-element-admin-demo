@@ -22,6 +22,6 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 
 
-# npm install --save-dev style-loader less-loader less vuex axios element-ui
+### npm install --save-dev style-loader less-loader less vuex axios element-ui
 
-# element-ui 组件化，用起来很方便，后台增删改查很方便
+### element-ui 组件化，用起来，后台增删改查很方便
